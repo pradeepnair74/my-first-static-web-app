@@ -6,7 +6,7 @@
       "database": "MyTestPersonDatabase",
       "schema": "staticwebapp.database.schema.gql"
     },
-    "connection-string": "AccountEndpoint=https://comosdbforswa.documents.azure.com:443/;AccountKey=o1wV1Vj2oFAPJnvKhu3bxd8et433oKkvSNDt7p8zLJrJmrfFiavvFrAoXaekgnMWNm9KuKcZjSh6ACDb2pxeLQ==;"
+    "connection-string": "AccountEndpoint=<url>;AccountKey=<AccountKey>;"
   },
   "runtime": {
     "graphql": {
